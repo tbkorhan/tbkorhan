@@ -11,5 +11,4 @@ Architect and BIM Coordinator, now building small Python tools to automate BIM w
 ## Projects
 - [ifc-wall-checker](https://github.com/tbkorhan/ifc-wall-checker): checks IFC models for missing parameters on walls, doors and windows and exports an Excel report
 
-## Looking for
-Remote, part-time BIM automation and coordination work.
+
