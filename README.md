@@ -9,6 +9,6 @@ Architect and BIM Coordinator, now building small Python tools to automate BIM w
 - Claude Code for AI-assisted development 🔗
 
 ## Projects
-- [ifc-wall-checker](https://github.com/tbkorhan/ifc-wall-checker): checks IFC models for missing parameters on walls, doors and windows and exports an Excel report
+- [bim-checks](https://github.com/tbkorhan/bim-checks): BIM Checks: IFC checker and pyRevit extension
 
 
